@@ -1,9 +1,10 @@
 # Dev Memory
 
-![devmemory](https://user-images.githubusercontent.com/52139246/164362659-c21e3b84-aaee-42de-b8e0-9d13a539f364.png)
+![devmemory](https://user-images.githubusercontent.com/52139246/164362976-ce184a8f-5bb8-4c8f-a1dc-5cdafa971176.png)
+
 
 ## Run Project
-git clone the project
+git clone the project and
  `yarn start`
  
 ### Projeto criado no curso da B7Web
